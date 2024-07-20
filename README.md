@@ -1,5 +1,5 @@
 # disha20june.github.io
 This is my first GitHub website 
-| date | Description |
+| date | Resource person |Description |
 | ----------- | ----------- |
-| 15|07|2024 | Dr.Pyare lal garg |
+| 15|07|2024 | Dr.Pyare lal garg | he told us about GitHub |
