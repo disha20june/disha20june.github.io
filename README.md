@@ -3,7 +3,7 @@
 
 | date | Resource person |Description |
 | ----------- | ----------- |---------|
-| 15|07|2024 | Dr.Pyare lal garg | he told us about GitHub |
+| 15-07-2024 | Dr.Pyare lal garg | he told us about GitHub |
 
 #disha20june.github.io
 ## Activity report of student induction program2023
