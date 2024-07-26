@@ -30,3 +30,10 @@
 | Date | Resource person | Description |
 | ----------- | ----------- | ---------|
 | 25/07/2024 | Professor Nisha masson mam | Professor Nisha masson mam takes a small activity test of UHV |
+
+#disha20june.github.io
+## Activity report of student induction program2024
+
+
+| Date | Resource person | Description |
+| ----------- | ----------- | ---------| 26/07/2024 | Dr. Kanwalpreet K. bhatt | She is meditation counsellor and homoeopathic practitioner. she told us about importance of meditation |
