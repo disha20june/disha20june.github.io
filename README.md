@@ -36,4 +36,4 @@
 
 
 | Date | Resource person | Description |
-| ----------- | ----------- | ---------| 26/07/2024 | Dr. Kanwalpreet Kaur bhatt | She is meditation counsellor and homoeopathic practitioner. she told us about importance of meditation |
+| ----------- | ----------- | --------| | 26/07/2024 | Dr. Kanwalpreet Kaur bhatt | She is meditation counsellor and homoeopathic practitioner. she told us about importance of meditation |
